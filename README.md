@@ -14,6 +14,7 @@ This project is a binary image classification model built using TensorFlow and K
 - 📊 Accuracy evaluated on validation set and new test images
 - 🗂️ Dataset stored on Google Drive
 - 💾 Trained model saved as `img_classifier.keras`
+-  follow the link to get a view of the data https://drive.google.com/drive/folders/1bYBSH4Pdliv3O98mta2ROTDgn8Phl6Uh?usp=drive_link
 
 
 
